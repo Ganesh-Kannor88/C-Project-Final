@@ -1,3 +1,14 @@
+/*'
+
+Banking System Management
+
+Author: Ganesh Kannor
+Created On: 10/10/2021
+Modified On:
+Dependencies: None
+
+*/
+
 #include <iostream>
 #include <cstdio>
 #include <cstring>
